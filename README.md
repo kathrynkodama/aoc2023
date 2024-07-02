@@ -1,2 +1,3 @@
-# aoc2023
-Advent of code 2023 solutions
+# Advent of Code 2023
+
+Solutions in Ruby for https://adventofcode.com/ 2023
